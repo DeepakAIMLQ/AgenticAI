@@ -1,0 +1,16 @@
+https://github.com/emarco177/ice_breaker/blob/main/.env.example
+
+https://python.langchain.com/docs/introduction/
+
+https://python.langchain.com/docs/tutorials/llm_chain/
+
+
+
+
+
+
+
+
+
+
+
